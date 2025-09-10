@@ -13,7 +13,6 @@ Required tools to run the program are :</br>
 \- csv files
 
 #### Program walk-through
-
 - Launch the Jupyter Notebook: <br/>
 <p style="border: 2px solid #000000; padding: 1px;">
 <table><tr><td>
